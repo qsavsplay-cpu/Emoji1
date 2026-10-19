@@ -1,0 +1,7 @@
+{
+  "pug": {
+    "title": "Мопс (TOXI)",
+    "file": "pug.json",
+    "settings": {"layer": "EMOJI", "skip": ["eye*", "bliki", "блик"]}
+  }
+}
