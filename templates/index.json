@@ -6,10 +6,3 @@
   }
 }
 
-{
-  "Demon": {
-    "title": "Демон",
-    "file": "Demon.tgs",
-    "settings": {"layer": "TextGroup", "skip": ["eye*", "bliki", "блик"]}
-  }
-}
