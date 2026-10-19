@@ -1,7 +1,15 @@
 {
   "pug": {
-    "title": "Мопс (TOXI)",
+    "title": "Пеппа",
     "file": "pug.json",
     "settings": {"layer": "EMOJI", "skip": ["eye*", "bliki", "блик"]}
+  }
+}
+
+{
+  "Demon": {
+    "title": "Демон",
+    "file": "Demon.tgs",
+    "settings": {"layer": "TextGroup", "skip": ["eye*", "bliki", "блик"]}
   }
 }
